@@ -1,0 +1,88 @@
+let myInfo = {
+profilePic:"https://www.celebface.in/wp-content/uploads/2021/07/Rashmika-Mandanna-1.jpg",
+username:"hansimi_123",
+post:45,
+followers:234,
+following:786,
+name:"Simran Parveen",
+bio:"I have done gradution in Bcom and Now I am A CA. ",
+savedStatus:[
+{
+    statusName:"Songs",
+   status:[
+    "https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg",
+    "https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=daylight-forest-glossy-443446.jpg&fm=jpg",
+    "https://images.pexels.com/photos/462118/pexels-photo-462118.jpeg?cs=srgb&dl=bloom-blooming-blossom-462118.jpg&fm=jpg",
+    "https://cdn.wallpapersafari.com/24/73/oJSkhX.jpg"
+   ]   
+},
+{
+    statusName:"Sketch",
+    status:[
+        "https://cdn.wallpapersafari.com/24/73/oJSkhX.jpg",
+        "https://getwallpapers.com/wallpaper/full/c/8/1/1424888-butterfly-and-flower-wallpaper-1920x1080-for-xiaomi.jpg",
+        "https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg",
+        "https://th.bing.com/th/id/R.318fd8c40ed4d1d2b62fa10ba367c456?rik=CSGvXaswYNNFfw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fBest-Food-HD-Backgrounds.jpg&ehk=CXObrv3MyuYCxR2yFK%2fmJ7IcGJ1FFqRV1ovmwu5hjmE%3d&risl=&pid=ImgRaw&r=0"
+    ]
+},
+{
+    statusName:"Reels",
+    status:[
+        "https://i.redd.it/u5uj0qimasx41.jpg",
+        "https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=daylight-forest-glossy-443446.jpg&fm=jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-p/16/86/d5/a0/20190217-123302-largejpg.jpg",
+        "https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg"
+    ]
+}
+],
+posts:[
+    {
+        postImages:[
+            "https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=daylight-forest-glossy-443446.jpg&fm=jpg",
+        ]
+    },
+    {
+    postImages:[ "https://getwallpapers.com/wallpaper/full/c/8/1/1424888-butterfly-and-flower-wallpaper-1920x1080-for-xiaomi.jpg",]
+    
+    },
+    {
+        postImages:[
+            "https://th.bing.com/th/id/R.318fd8c40ed4d1d2b62fa10ba367c456?rik=CSGvXaswYNNFfw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fBest-Food-HD-Backgrounds.jpg&ehk=CXObrv3MyuYCxR2yFK%2fmJ7IcGJ1FFqRV1ovmwu5hjmE%3d&risl=&pid=ImgRaw&r=0",
+        ]
+    },
+    {
+        postImages:["https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg",]
+    },
+    {
+        postImages:[
+            "https://getwallpapers.com/wallpaper/full/c/8/1/1424888-butterfly-and-flower-wallpaper-1920x1080-for-xiaomi.jpg",
+            "https://i.redd.it/u5uj0qimasx41.jpg",
+        ]
+    },
+    {
+        postImages:[
+            "https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-p/16/86/d5/a0/20190217-123302-largejpg.jpg",
+        ]
+    },
+    {
+        postImages:[
+            "https://th.bing.com/th/id/R.318fd8c40ed4d1d2b62fa10ba367c456?rik=CSGvXaswYNNFfw&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fBest-Food-HD-Backgrounds.jpg&ehk=CXObrv3MyuYCxR2yFK%2fmJ7IcGJ1FFqRV1ovmwu5hjmE%3d&risl=&pid=ImgRaw&r=0",
+            "https://th.bing.com/th/id/R.293f49d6f8786ae85b86b28dab682200?rik=xC0g6fJ3tyG28w&riu=http%3a%2f%2fwww.cruise-club.com%2ftree.jpg&ehk=JE7ytu8EgM82wynCOxYvDlQUnupfiMlrY5FZFR%2beiKE%3d&risl=&pid=ImgRaw&r=0",
+        ]
+    },
+    {
+        postImages:[
+            "https://i.redd.it/u5uj0qimasx41.jpg",
+            "https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=daylight-forest-glossy-443446.jpg&fm=jpg",
+        ]
+    },
+    {
+        postImages:[
+            "https://getwallpapers.com/wallpaper/full/c/8/1/1424888-butterfly-and-flower-wallpaper-1920x1080-for-xiaomi.jpg",
+            "https://www.thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg",
+        ]
+    }
+]
+}
+export{myInfo};
